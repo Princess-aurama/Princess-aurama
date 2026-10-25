@@ -1,3 +1,4 @@
+<img width="1400" height="349" alt="banne" src="https://github.com/user-attachments/assets/ec4deec6-b220-4029-82e8-697e8c87e368" />
 <h1 align="center">Hi there, I'm Princess Brown Cumberbatch 👋</h1>
 <h3 align="center">MIS Student & Aspiring Data / Systems Engineer based in Panama 🇵🇦</h3>
 
