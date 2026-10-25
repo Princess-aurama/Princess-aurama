@@ -27,7 +27,7 @@
 #### 1. [IlkaPoint](https://github.com/MasterFx04/IlkaPoint-App)
 * **Description:** A robust desktop inventory management and point-of-sale (POS) application.
 * **Tech Stack:** C# (.NET WinForms), MySQL, Git.
-* **Key Role:** Developed core database integration, system architecture, and UI logic for seamless inventory tracking and business operations.
+* **Key Role:** Developed database integration, system architecture, security, logic limitations, UI logic for seamless inventory tracking and business operations.
 
 #### 2. [Space Birds](https://github.com/MasterFx04/spacebirds-game-unity)
 * **Description:** A 2D planetary physics and particle effect game.
